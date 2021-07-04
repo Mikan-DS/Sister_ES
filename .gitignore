@@ -1,6 +1,7 @@
 *.rpyc
 *.rar
 *.py
+*~
 *__backup__**
 *__building__**
 *.bak
