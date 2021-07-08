@@ -9,6 +9,7 @@ init:
     image bg int_sis_room_rain = "mods/Sister/images/bg/int/sis_room_rain.jpg"
     image bg int_sis_stairs = "mods/Sister/images/bg/int/sis_stairs.jpg"
     image bg sis_prologue_incar = "mods/Sister/images/bg/sis_prologue_incar.jpg"
+    image bg sis_bus_stop_summer = 'mods/Sister/images/bg/sis_bus_stop_summer.jpg'
 
 
     ####SPRITES####
